@@ -1,0 +1,7 @@
+DemandSlotID,RequesterID,Name,Level,Location,SessionType,SlotDate,AvailableStart,AvailableEnd,PriorityWeight,LastSessionDate,Status
+D001,R001,Alice,L1,LOC_A,OneToOne,2026-01-20,07:00,15:00,120,2026-01-10,Pending
+D002,R002,Bob,L2,LOC_A,Group_Short,2026-01-20,11:00,19:00,80,,Pending
+D003,R003,Charlie,L3,LOC_A,Group_Standard,2026-01-20,22:00,06:00,50,,Pending
+D004,R004,Diana,L1,LOC_B,OneToOne,2026-01-21,08:00,16:00,120,2026-01-14,Pending
+D005,R005,Ethan,L2,LOC_B,Group_Extended,2026-01-21,13:00,21:00,70,,Pending
+D006,R006,Fatima,L1,LOC_B,Group_Short,2026-01-21,10:00,18:00,100,2026-01-18,Pending
