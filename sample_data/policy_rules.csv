@@ -1,1 +1,6 @@
+SessionType,Level,FrequencyDays,DurationMin,MinPpl,MaxPpl,PriorityScore
+OneToOne,L1,7,30,1,1,80
+OneToOne,L2,3,30,1,1,100
+Group,L1,14,60,2,10,60
+Group,L2,7,60,2,15,90
 
