@@ -1,0 +1,7 @@
+SupplySlotID,ProviderID,Location,Date,StartTime,EndTime,DurationMin,SessionType,MaxCapacity,Status
+S001,P001,LOC_A,2026-01-20,07:30,08:00,30,OneToOne,1,Open
+S002,P001,LOC_A,2026-01-20,11:00,11:45,45,Group_Short,8,Open
+S003,P002,LOC_A,2026-01-20,22:00,23:00,60,Group_Standard,15,Open
+S004,P003,LOC_B,2026-01-21,08:30,09:00,30,OneToOne,1,Open
+S005,P003,LOC_B,2026-01-21,14:00,15:30,90,Group_Extended,25,Open
+S006,P004,LOC_B,2026-01-21,10:00,10:45,45,Group_Short,10,Open
